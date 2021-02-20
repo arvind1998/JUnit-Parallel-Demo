@@ -1,6 +1,7 @@
 # JUnit-Parallel-Demo
 
-@author - Sanket Mali, Senior Customer Engineer, BrowserStack
+Author - Sanket Mali, Senior Customer Engineer, BrowserStack
+Original repo - https://github.com/sanketsmali/JunitParallelExample
 
 Instructions:
 
